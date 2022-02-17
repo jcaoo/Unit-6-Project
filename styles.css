@@ -1,0 +1,73 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    background-color: #C8A2F2;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 400;
+    padding: 0 30px;
+}
+img {
+    width: 700px;
+    height: 400px;
+}
+
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+.firstImage {
+    height: 400px;  
+}
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+.stayImage{
+   	font-size: 25px;
+}
+.runImage{
+    font-size: 25px;
+}
+.sevenDwarves{
+    font-size: 25px;
+}
+.door{
+    font-size: 25px;
+}
+.witch{
+    font-size: 25px;
+}
+.wqueen{
+    font-size: 25px;
+}
+.accepted{
+font-size: 25px;
+}
+.denyed{
+    font-size: 25px;
+}
+
+.button {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+
+
+
+
+
